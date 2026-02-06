@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently learning MERN Full-Stack Web Development<br>🔭 Working on backend APIs using Node.js, Express & MongoDB<br>👯 Looking to collaborate on MERN & open-source projects<br>💬 Ask me about JavaScript, Node.js, REST APIs & Git<br>⚡ Fun fact: I love building things from scratch
+🌱 MERN Stack Developer building real-world full-stack applications<br>🔭 Working on backend APIs using Node.js, Express & MongoDB<br>👯 Looking to collaborate on MERN & open-source projects<br>💬 Ask me about JavaScript, Node.js, REST APIs & Git<br>⚡ Fun fact: I love building things from scratch
 
 
 ## 🌐 Socials:
