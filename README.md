@@ -1,5 +1,9 @@
 # 💫 About Me:
-🌱 MERN Stack Developer building real-world full-stack applications<br>🔭 Working on backend APIs using Node.js, Express & MongoDB<br>👯 Looking to collaborate on MERN & open-source projects<br>💬 Ask me about JavaScript, Node.js, REST APIs & Git<br>⚡ Fun fact: I love building things from scratch
+🌱 MERN Stack Developer building real-world full-stack applications<br>🔭 Working on backend APIs using Node.js, Express & MongoDB<br>👯 Looking to collaborate on MERN & open-source projects<br>💬 Ask me about JavaScript, Node.js, REST APIs & Git<br>⚡ Fun fact: I love building things from scratch<br>🚀 Featured Projects:
+- 🔹 Expense Tracker App – MERN stack app with authentication & CRUD
+- 🔹 Notes API – REST API using Express & MongoDB
+- 🔹 Portfolio Website – Responsive site with React & Tailwind
+
 
 
 ## 🌐 Socials:
