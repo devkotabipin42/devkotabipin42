@@ -1,8 +1,23 @@
 # 💫 About Me:
-🌱 MERN Stack Developer building real-world full-stack applications<br>🔭 Working on backend APIs using Node.js, Express & MongoDB<br>👯 Looking to collaborate on MERN & open-source projects<br>💬 Ask me about JavaScript, Node.js, REST APIs & Git<br>⚡ Fun fact: I love building things from scratch<br>🚀 Featured Projects:
+👋 Hi, I’m Bipin Devkota
+
+💻 MERN Stack Developer passionate about building full-stack web applications  
+🚀 Currently working on backend APIs using Node.js, Express & MongoDB  
+🤝 Open to collaboration on MERN & open-source projects  
+💬 Ask me about JavaScript, Node.js, REST APIs & Git  
+⚡ Fun fact: I love building projects from scratch and fixing tough bugs
+<br>🚀 Featured Projects:
 - 🔹 Expense Tracker App – MERN stack app with authentication & CRUD
 - 🔹 Notes API – REST API using Express & MongoDB
-- 🔹 Portfolio Website – Responsive site with React & Tailwind
+- 🔹 Portfolio Website – Responsive site with React & Tailwind <br> 📌 Current Focus:
+- Building backend APIs with Node.js & MongoDB
+- Improving React state management
+- Writing clean, reusable code <br> 📌 Current Focus:
+- Building backend APIs with Node.js & MongoDB
+- Improving React state management
+- Writing clean, reusable code
+
+
 
 
 
