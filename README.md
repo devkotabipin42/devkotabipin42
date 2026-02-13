@@ -12,9 +12,6 @@
 - 🔹 Portfolio Website – Responsive site with React & Tailwind <br> 📌 Current Focus:
 - Building backend APIs with Node.js & MongoDB
 - Improving React state management
-- Writing clean, reusable code <br> 📌 Current Focus:
-- Building backend APIs with Node.js & MongoDB
-- Improving React state management
 - Writing clean, reusable code
 
 
