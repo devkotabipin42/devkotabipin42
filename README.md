@@ -1,19 +1,61 @@
-# 💫 About Me:
-👋 Hi, I’m Bipin Devkota
+# Hey, I'm Bipin 👋
 
-💻 MERN Stack Developer passionate about building full-stack web applications  
-🚀 Currently working on backend APIs using Node.js, Express & MongoDB  
-🤝 Open to collaboration on MERN & open-source projects  
-💬 Ask me about JavaScript, Node.js, REST APIs & Git  
-⚡ Fun fact: I love building projects from scratch and fixing tough bugs
-<br>🚀 Featured Projects:
-- 🔹 Expense Tracker App – MERN stack app with authentication & CRUD
-- 🔹 Notes API – REST API using Express & MongoDB
-- 🔹 Portfolio Website – Responsive site with React & Tailwind <br> 📌 Current Focus:
-- Building backend APIs with Node.js & MongoDB
-- Improving React state management
-- Writing clean, reusable code
+I'm a MERN stack developer based in Japan, currently studying 
+International IT & Engineering.
 
+I got into coding because I wanted to actually build things — 
+not just follow tutorials. 
+
+Right now I'm really into AI agents and how LLMs can automate 
+real tasks. My latest project connects Mistral AI with live web 
+search and email — basically giving an AI actual superpowers.
+
+---
+
+## Things I've Built
+
+**🎫 Helpdesk Ticket System**  
+A full support desk — users submit tickets, admins manage them, 
+everyone gets notified. Built this because I wanted something 
+that actually feels like a real workplace tool.  
+`MongoDB` `Express` `React` `Node.js` `JWT`
+
+**🎬 CineVerse**  
+Movie discovery app with infinite scroll, user auth, and an 
+admin dashboard. Started as a weekend project, ended up being 
+one I'm actually proud of.  
+`React` `Redux Toolkit` `TMDB API` `JWT`
+
+**📸 Instagram Clone**  
+Built the core features — posts, likes, comments, edit profile. 
+The goal was to understand how social platforms work under the hood.  
+`MERN Stack` `JWT` `Cloudinary`
+
+**🤖 AI Social Media Manager**  
+An AI agent that searches the internet, writes content, 
+and posts to social media automatically. Uses LangChain + 
+Mistral AI + Tavily search.  
+`Node.js` `LangChain` `Mistral AI` `Tavily` `Facebook API`
+
+---
+
+## Stack I Work With
+
+JavaScript · React · Node.js · Express · MongoDB  
+LangChain · REST APIs · JWT · Tailwind · Git
+
+---
+
+## Currently
+
+- 🔨 Building AI-powered tools
+- 📚 Learning TypeScript + system design
+- 🎯 Looking for software engineering roles in Japan
+
+---
+
+📫 devkotabipin42@gmail.com  
+💼 linkedin.com/in/bipin-devkota-5632a7364
 
 
 
